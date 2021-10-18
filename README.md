@@ -10,7 +10,7 @@
 
 <table border="2">
   <tr>
-    <th>Linguagens de marcaçao</th>
+    <th>Linguagens de marcaçao/stylesheet</th>
     <th>Linguagens de programaçao</th>
     <th>SGBD's</th>
   </tr>
