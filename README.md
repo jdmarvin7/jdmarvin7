@@ -1,7 +1,7 @@
 <h1>J D Marvin Mael Destin</h1>
 
 <pre>
-  Ola, eu sou Marvin tenho 19 anos, Atualmente estou no segundo período no curso de análise 
+  Ola, eu sou Marvin tenho 19 anos, Atualmente estou no terceiro período no curso de análise 
   e desenvolvimento de sistemas, atuo como desenvolvedor web trainee na softfocus.
   
   Hello, I'm Marvin, I'm 19 years old, I'm currently in the second period in the systems analysis
