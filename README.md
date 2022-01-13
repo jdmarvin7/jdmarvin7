@@ -4,7 +4,7 @@
   Ola, eu sou Marvin tenho 19 anos, Atualmente estou no terceiro período no curso de análise 
   e desenvolvimento de sistemas, atuo como desenvolvedor web trainee na softfocus.
   
-  Hello, I'm Marvin, I'm 19 years old, I'm currently in the second period in the systems analysis
+  Hello, I'm Marvin, I'm 19 years old, I'm currently in the third period in the systems analysis
   and development course, I work as a trainee web developer at softfocus.
 </pre>
 
@@ -24,7 +24,7 @@
    <tr>
     <td>CSS</td>
     <td>JAVA</td>
-    <td>mySQL</td>
+    <td>postgres</td>
   </tr>
   
    <tr>
