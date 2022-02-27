@@ -8,7 +8,7 @@
   and development course, I work as a trainee web developer at softfocus.
 </pre>
 
-<table border="2">
+<table border="2" style="tex-align: center;">
   <tr>
     <th>Linguagens de marcaçao/stylesheet</th>
     <th>Linguagens de programaçao</th>
