@@ -1,7 +1,7 @@
 ## Olá sou Marvin tenho 19 anos atualmente estou cursando ADS e sou um desenvolvedor Fullstack em Formação!
 
 <div>
-<a href="https://github.com/oliver-zyn">
+<a href="https://github.com/jdmarvin7">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdmarvin7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdmarvin7&langs_count=7&theme=dark"/>
 </div>
